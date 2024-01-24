@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    // Dist
+    "outDir": "dist",
+    "moduleResolution": "bundler",
+    "target": "ESNext",
+    "module": "ESNext",
+    // Declartion
+    "declaration": true,
+  },
+  "include": [
+    "src"
+  ]
+}
